@@ -1,5 +1,3 @@
-<img width="1080" height="1920" alt="08" src="https://github.com/user-attachments/assets/6e2f2222-88f7-49ba-adf7-12ad93e8c4f8" /># Speedy Rolling Ball 3D
-
 **Speedy Rolling Ball 3D** is a thrilling 3D mobile game developed in Unity where players control a rolling ball that moves forward automatically. 
 The gameplay is fast-paced and inspired by endless-runner style games, requiring quick reflexes to avoid obstacles and collect power-ups.
 
