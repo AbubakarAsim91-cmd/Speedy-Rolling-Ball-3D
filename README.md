@@ -39,7 +39,7 @@ Guide the ball through each level by swiping left or right to avoid obstacles. C
 
 ## 🛠️ Project Structure
 
-<img width="720" height="1280" alt="02" src="https://github.com/user-attachments/assets/7e4826d8-12dc-43c2-a4e8-21167cff48bc" />
-<img width="720" height="1280" alt="03" src="https://github.com/user-attachments/assets/869a7764-1624-4a96-91e7-3dfb5a5d3ed3" />
-<img width="720" height="1280" alt="10" src="https://github.com/user-attachments/assets/a83776f1-c69b-4172-b2f6-dd543e9d29b6" />
-<img width="720" height="1280" alt="08" src="https://github.com/user-attachments/assets/7c240aa8-9615-4ebe-b149-9eccaf047cf1" />
+<img width="400" height="600" alt="02" src="https://github.com/user-attachments/assets/7e4826d8-12dc-43c2-a4e8-21167cff48bc" />
+<img width="400" height="600" alt="03" src="https://github.com/user-attachments/assets/869a7764-1624-4a96-91e7-3dfb5a5d3ed3" />
+<img width="400" height="600" alt="10" src="https://github.com/user-attachments/assets/a83776f1-c69b-4172-b2f6-dd543e9d29b6" />
+<img width="400" height="600" alt="08" src="https://github.com/user-attachments/assets/7c240aa8-9615-4ebe-b149-9eccaf047cf1" />
